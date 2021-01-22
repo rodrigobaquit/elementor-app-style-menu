@@ -1,14 +1,20 @@
 
 
 
-// To create one style menu for elementor, first of all, you need to buy Elementor Pro. You need that, because to use Custom CSS, you can only do by using Elementor Pro.
-// To create a fixed header section, you need to select a header section settings and click on advanced tab. Go to Custom CSS and copy this code below. Please after 
-that you need to be sure if the section was mark down as stretched section on layout tab. 
+To create one style menu for elementor, first of all, you need to buy Elementor Pro. You need that because to use Custom CSS, 
+you can only do it by using Elementor Pro.
+// To create a fixed header section, you need to select a header section settings and click on the advanced tab. 
+Go to Custom CSS and copy this code below. Please before of that, you need to be sure 
+if the section was selected as a stretched section on the layout tab. 
 
-selector { position: fixed
-: top: 0}
+selector { 
+position: fixed;
+top: 0}
 
-// To create a fixed bottom section, you will do the same as above, but the code was a little bit different. Copy and paste this code below to create
+// To create a fixed bottom section, you will do the same as above, but the code was a little bit different. 
+Copy and paste this code below to create
 //a fixed bottom section
 
-selector { position: fixed;bottom: 0;}
+selector { 
+position:fixed;
+bottom: 0;}
